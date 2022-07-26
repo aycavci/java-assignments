@@ -1,4 +1,4 @@
-# java-assignments
+# Java assignments
 Hey everyone!
 
 I was able to find some of the Java assignments that I did during my bachelors degree. I believe that they will be very helpful for you to understand some of the concepts better by challenging you a little bit :)  As you can see, there are four folders that covers some of the topics that you learned till (including) lecture 14 in CODEGYM. In each folder, there are several small assignments (some of the easier, some of them harder). 
